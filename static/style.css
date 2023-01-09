@@ -217,7 +217,7 @@ section {
 
 .about {
     padding: 120px 10%;
-    background: #f5eaea;
+    background: #FAF9F6;
     display: grid;
     grid-template-columns: repeat(2, 2fr);
     align-items: center; 
